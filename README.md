@@ -1,4 +1,5 @@
 #Business case Commentary
+
 About Dataset:  The dataset belongs to a retail commerce brand. This data have records for Brazil.
 
 This Business case intends to utilize SQL for Analysis. I have carried out analysis at MYSQL.
